@@ -1,9 +1,4 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-using System.Security.Principal;
-using System.Threading.Tasks;
-using System.Xml.Linq;
-using System;
-using System.Diagnostics;
+﻿using System;
 
 namespace SOLID
 {
